@@ -1,0 +1,11 @@
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\bin\Debug\netcoreapp2.1\Proyecto8.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\bin\Debug\netcoreapp2.1\Proyecto8.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\bin\Debug\netcoreapp2.1\Proyecto8.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\bin\Debug\netcoreapp2.1\Proyecto8.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\bin\Debug\netcoreapp2.1\Proyecto8.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto8\Proyecto8\obj\Debug\netcoreapp2.1\Proyecto8.csprojAssemblyReference.cache
